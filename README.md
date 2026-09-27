@@ -156,7 +156,7 @@ The project uses Maven to compile the Java source code and run the JUnit tests.
 Clone this GitHub repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone <https://github.com/MuhammadBasit29/MuhammadBasit_ST_Exam1>
 ```
 
 Then move into the project directory:
