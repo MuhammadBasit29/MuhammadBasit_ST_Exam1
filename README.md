@@ -1,8 +1,8 @@
-# Eco-Friendly Vehicle Toll Discount System
 
-## Project Description
 
-This project implements and tests an **Eco-Friendly Vehicle Toll Discount System** using Java and JUnit 5.
+## Exam Description
+
+This exam implements and tests an **Eco-Friendly Vehicle Toll Discount System** using Java and JUnit 5.
 
 The system calculates a vehicle's toll discount percentage based on:
 
@@ -10,7 +10,7 @@ The system calculates a vehicle's toll discount percentage based on:
 - Whether the vehicle is electric (EV)
 - Whether the vehicle is part of a carpool
 
-The project demonstrates software testing techniques including:
+The exam demonstrates software testing techniques including:
 
 - Equivalence Partitioning (EP)
 - Boundary Value Analysis (BVA)
